@@ -4,8 +4,8 @@ This learning path meticulously prepares a beginner to master React for frontend
 
 ## Skills you'll learn
 
-![Badge Layout](/assets/images/Screenshot_7.png)
-![Badge Layout](/assets/images/Screenshot_8.png)
-![Badge Layout](/assets/images/Screenshot_9.png)
-![Badge Layout](/assets/images/Screenshot_10.png)
-![Badge Layout](/assets/images/Screenshot_11.png)
+![](https://github.com/PaladinKnightMaster/skillup_codesignal/blob/main/assets/images/Screenshot_7.png)
+![](https://github.com/PaladinKnightMaster/skillup_codesignal/blob/main/assets/images/Screenshot_8.png)
+![](https://github.com/PaladinKnightMaster/skillup_codesignal/blob/main/assets/images/Screenshot_9.png)
+![](https://github.com/PaladinKnightMaster/skillup_codesignal/blob/main/assets/images/Screenshot_10.png)
+![](https://github.com/PaladinKnightMaster/skillup_codesignal/blob/main/assets/images/Screenshot_11.png)
