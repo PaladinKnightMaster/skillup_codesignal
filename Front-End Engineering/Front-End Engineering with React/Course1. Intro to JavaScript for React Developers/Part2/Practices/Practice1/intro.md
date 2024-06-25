@@ -1,0 +1,3 @@
+# Determining Celestial Bodies
+
+Hey Space Explorer, imagine encountering an object in space and needing to quickly determine whether it's a ringed planet. The code provided below makes this decision based on two conditions: if it's a planet and whether it has rings. To see the message we would display for our current findings in the cosmos, run and preview the code in the UI preview. Remember to check out the `solution.js` file.
