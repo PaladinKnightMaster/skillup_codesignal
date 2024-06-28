@@ -1,0 +1,3 @@
+# Creating the PhotosCount Component in React
+
+You've done well so far, Space Voyager! Now it's time to demonstrate your mastery. Create a React component named `PhotosCount` that manages a photography portfolio. It should simulate adding photos when mounted and clean up upon unmounting. Remember, `useEffect` is your tool for managing component lifecycle events. Are you ready to complete your mission?
