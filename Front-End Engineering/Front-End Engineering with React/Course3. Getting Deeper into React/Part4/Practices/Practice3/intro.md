@@ -1,0 +1,3 @@
+# Boosting the Spacecraft's Signal Strength
+
+Great job on your space exploration coding journey, Space Voyager! In this code block for our Spacecraft's systems, there's a small bug causing the signal not to alert correctly when clicking the button. Your mission is to **identify and fix** it so that the **signal strength is alerted with each button press**. Remember, every spacecraft needs a functioning control system, so let's get it right!
