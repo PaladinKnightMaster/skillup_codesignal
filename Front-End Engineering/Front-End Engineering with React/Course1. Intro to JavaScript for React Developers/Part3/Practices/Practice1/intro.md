@@ -1,0 +1,3 @@
+# Displaying Fluffy: The Doggy Daycare Class Getter
+
+Stellar Navigator, you've learned how the `Dog` class operates in the Doggy Daycare universe. The code below demonstrates how to display a dog's name by using a class with a **getter method**. To observe how Fluffy's name is made known to the world, run and preview the code in the UI preview. Be sure to check out the `solution.js` file for the implementation details.
