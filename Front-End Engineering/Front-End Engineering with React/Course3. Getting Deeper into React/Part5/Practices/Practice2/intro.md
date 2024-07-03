@@ -1,0 +1,3 @@
+# Default Greeting in the Guest Book
+
+Fantastic progress, Space Voyager! Let's put your new skills to the test. Can you modify the code to add a *greeting* to the Virtual Birthday Party app using the `input` field and `button`? When the `button` is clicked, the greeting from the `input` field should be added to the list. Use your knowledge of `useRef` to access the input value and `useState` to update the list of greetings.
