@@ -1,0 +1,3 @@
+# Managing Spaceship Resources: React State and Conditional Logic
+
+Stellar Navigator, we've toured the galaxy of **React state management**. Now, step into the captain's seat to manage the spaceship's dashboard. Write the React component that updates `fuel level` and `hull integrity` based upon **conditional state changes**. Remember, safety comes first, so keep an eye on the fuel and maintain the **hull**!
