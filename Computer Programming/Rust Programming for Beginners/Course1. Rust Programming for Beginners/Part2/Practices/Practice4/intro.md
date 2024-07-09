@@ -1,0 +1,3 @@
+# Rust Variables and Constants: Speed of Light and Moons Counter
+
+Prepare for an astronomical Rust adventure! Enhance your understanding of Rust by implementing constants and mutable variables in a space exploration setting. Define a constant for the speed of light in a vacuum and a mutable variable for cataloging lunar discoveries. Initially, set the number of moons, then update the count as new moons are discovered. Present both figures to mission control. Launch sequence initiated!

@@ -1,0 +1,3 @@
+# Launch Sequence: Conditional State Update in React
+
+Attention, Space Voyager! You are now commanding a virtual spaceship. Your task is to safely manage the spacecraft's operations. In the code provided, you can observe how a spaceship's status is updated to "**launching**" only if it is currently "**docked**." Otherwise, its status remains unchanged. Click `Run` to initiate the sequence and watch the status update!

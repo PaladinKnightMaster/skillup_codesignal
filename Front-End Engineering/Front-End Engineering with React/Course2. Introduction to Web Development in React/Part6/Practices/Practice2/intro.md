@@ -1,0 +1,3 @@
+# Implementing Multi-Phase Spaceship Journey Status
+
+Galactic Pioneer, you're doing stellar work! Your spaceship's status is currently either "**Ready**" or "**Launched**." Let's introduce a new status. Please modify the code to conditionally set the status to "**Landed**" if the previous status was "**Launched**." Through this enhancement, our spaceship will be able to undertake multi-phase journeys: readiness, launch, and landing.
