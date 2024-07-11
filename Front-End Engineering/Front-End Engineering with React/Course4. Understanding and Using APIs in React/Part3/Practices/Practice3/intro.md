@@ -1,0 +1,3 @@
+# Author Details Transmission Restoration
+
+Stellar Navigator, we've received an incomplete transmission from a React component designed to display an author's profile. A bug is preventing the display of the **author's name** after retrieving their details. Could you investigate the code and fix the transmission? Your keen eye should help in bringing the lost data back online. Hint: Open the link URL in the browser tab to see what the result looks like.
