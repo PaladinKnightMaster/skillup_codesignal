@@ -1,0 +1,3 @@
+# Convert String to Float in Rust
+
+Great job on learning about data type conversion in Rust! Now, let's test your skills. Your task is to convert a string representation of temperature into a *floating-point* number and assign it to a variable. This is common when reading temperature data from text sources. Remember how to convert *strings* to *numbers* and handle potential conversion errors in Rust.
