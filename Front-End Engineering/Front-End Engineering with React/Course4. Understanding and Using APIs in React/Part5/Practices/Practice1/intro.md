@@ -1,0 +1,3 @@
+# Weather Report: Fetch and Display Data
+
+Ever curious about how a space station fetches updates on cosmic weather conditions? The given code simulates such an interface! It uses a custom hook to fetch weather data asynchronously and displays it when ready. You won't be writing any code, **Galactic Pioneer** — just observe how the fetch occurs, how states are managed, and how the UI updates accordingly. Run the code and watch the climate data gather from the ether!
