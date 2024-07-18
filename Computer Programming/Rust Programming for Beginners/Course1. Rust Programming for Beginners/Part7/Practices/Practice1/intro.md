@@ -1,0 +1,3 @@
+# Temperature-Based Weather Classification Challenge
+
+Classify the weather conditions, aspiring meteorologist! In the provided Rust code, we assess the temperature to determine the appropriate weather description. The program leverages conditional statements to classify the weather based on the temperature provided. Execute the `Run` command to discover the weather label attributed to temperatures on Earth!
