@@ -1,0 +1,3 @@
+# Navigating Protected Routes in React Galaxy
+
+Great job navigating the React galaxy, Space Explorer! However, there's a little turbulence ahead: the code for our protected navigation isn't performing as expected. Can you figure out what's causing the hiccup? Make sure to check the logic around route *protection*, so that users who are not logged in cannot access the `CaptainsLog` page. Your mission is to debug and get us back on course!
