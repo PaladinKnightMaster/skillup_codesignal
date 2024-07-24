@@ -1,0 +1,3 @@
+# Buying Apples with Mutable Variables
+
+Have you ever imagined what buying apples might look like in the programming world, translated through integers? The given code exemplifies how to update the number of apples you have, using numeric values and mutable references in Rust. This setup showcases the fundamental principle of *mutable references* through an analogy to real-world shopping actions, such as purchasing apples. Run the code to observe the transaction process represented with integers!
