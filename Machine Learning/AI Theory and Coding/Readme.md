@@ -11,6 +11,6 @@ This learning path includes:
 
 ## Skills you'll learn
 
-![](https://github.com/PaladinKnightMaster/skillup_codesignal/blob/main/assets/images/Screenshot_18.png)
 ![](https://github.com/PaladinKnightMaster/skillup_codesignal/blob/main/assets/images/Screenshot_19.png)
 ![](https://github.com/PaladinKnightMaster/skillup_codesignal/blob/main/assets/images/Screenshot_20.png)
+![](https://github.com/PaladinKnightMaster/skillup_codesignal/blob/main/assets/images/Screenshot_21.png)
