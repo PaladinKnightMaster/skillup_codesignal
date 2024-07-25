@@ -1,0 +1,3 @@
+# Navigating to the Stars: Program Your Own Space Journey
+
+You've been doing well, Space Explorer! It's time for you to assemble a **React app with routing** by yourself. Can you create a simple program that includes a button allowing space travelers to navigate to an 'Explore' page? Remember to encapsulate your code within `BrowserRouter`, and ensure you use `Routes` and `Route` to define the paths.
