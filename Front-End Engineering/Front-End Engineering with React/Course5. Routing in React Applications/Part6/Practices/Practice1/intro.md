@@ -1,0 +1,3 @@
+# Simulated Login Error Navigation
+
+Imagine a space explorer attempting to log into the command center when a technical glitch strikes! In the given code, we simulate a failed login attempt by intentionally throwing an error with `throw new Error('Access Denied: Incorrect credentials.');` within the `handleLogin` function. How does the application inform the user about this problem? Click `Run` and observe the navigation to the error page and the display of the error message.
