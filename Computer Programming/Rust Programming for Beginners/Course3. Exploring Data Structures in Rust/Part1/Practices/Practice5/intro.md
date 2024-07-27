@@ -1,0 +1,3 @@
+# Tuple Ownership in Rust
+
+Well done so far! Let's continue practicing with a focus on **ownership in tuples**. There seems to be an error in this code regarding transfer of ownership for non-copy data types. Can you spot and fix the bug? Remember, once ownership is transferred, the original tuple can't be used again. Can you fix the error without using borrowing or references? Hint: Try using index syntax
