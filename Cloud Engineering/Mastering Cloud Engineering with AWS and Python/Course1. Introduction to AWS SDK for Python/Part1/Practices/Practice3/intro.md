@@ -1,0 +1,5 @@
+# Secure AWS Session Initialization in Python
+
+Having explored the essentials of securely managing AWS sessions and the importance of not embedding your credentials directly in your code, it's now time for a hands-on challenge. Your task is to establish a `boto3` session that explicitly sets the region to `"us-west-2"`. This exercise underscores the significance of keeping your AWS access secure and demonstrates how to configure regional preferences for your AWS operations.
+
+Important Note: Running scripts can alter the filesystem's state or modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.

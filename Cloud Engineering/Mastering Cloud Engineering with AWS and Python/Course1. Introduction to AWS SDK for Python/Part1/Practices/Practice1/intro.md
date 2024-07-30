@@ -1,0 +1,5 @@
+# Exploring AWS Services with Boto3
+
+Dive into `Boto3`'s capabilities by running a provided script to explore the available AWS services and resources, all without writing any code. This task highlights the extensive array of services accessible through low-level clients versus the select few available as high-level resources, demonstrating `Boto3`'s adaptability across AWS's broad service landscape. Click the `Run` button to see the list of services and resources, gaining insight into how `Boto3` enables both detailed control and simplified management of AWS services.
+
+**Important Note**: Running scripts can alter the filesystem's state or modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
