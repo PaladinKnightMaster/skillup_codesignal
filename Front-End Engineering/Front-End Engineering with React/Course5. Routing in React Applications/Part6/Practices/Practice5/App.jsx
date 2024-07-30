@@ -1,51 +1,43 @@
 ```
-import { BrowserRouter, Routes, Route, Link, useNavigate } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import CommandCenter from './CommandCenter';
+import ErrorFallback from './ErrorFallback';
+import SuccessPage from './SuccessPage';
+import ErrorPage from './ErrorPage';
+import { ErrorBoundary } from 'react-error-boundary';
 
-// TODO: Create a new component that uses 'useNavigate' to navigate to '/explore'
-// when a button is clicked.
-
-// TODO: Create the 'Explore' component that displays a welcome message to the
-// Space Explorers' Hub.
-
-// TODO: Define your 'App' component rendering 'BrowserRouter', 'Link's,
-// and the 'Routes' structure including '/' and '/explore' paths.
-
+// TODO: Define an App component that uses BrowserRouter to handle routes with ErrorFallback as fallback
+// TODO: Set up routes for '/command-center', '/success', '/error', and a default that navigates to '/command-center'
+// TODO: Wrap the Routes in an ErrorBoundary and specify the FallbackComponent to display when an error is caught
+// TODO: Ensure that all the other routes marked as * are redirected to /command-center
 export default function App() {
-  // TODO: Implement the function body.
+  // Your code here
 }
 ```
 
-import { BrowserRouter, Routes, Route, Link, useNavigate } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import CommandCenter from './CommandCenter';
+import ErrorFallback from './ErrorFallback';
+import SuccessPage from './SuccessPage';
+import ErrorPage from './ErrorPage';
+import { ErrorBoundary } from 'react-error-boundary';
 
-// TODO: Create a new component that uses 'useNavigate' to navigate to '/explore'
-// when a button is clicked.
-
-function Home() {
-  const navigate = useNavigate();
-  return <button onClick={() => navigate('/explore')}>Explore</button>;
-}
-
-// TODO: Create the 'Explore' component that displays a welcome message to the
-// Space Explorers' Hub.
-
-function Explore() {
-  return <h1>Welcome to the Space Explorers' Hub</h1>;
-}
-
-// TODO: Define your 'App' component rendering 'BrowserRouter', 'Link's,
-// and the 'Routes' structure including '/' and '/explore' paths.
-
+// TODO: Define an App component that uses BrowserRouter to handle routes with ErrorFallback as fallback
+// TODO: Set up routes for '/command-center', '/success', '/error', and a default that navigates to '/command-center'
+// TODO: Wrap the Routes in an ErrorBoundary and specify the FallbackComponent to display when an error is caught
+// TODO: Ensure that all the other routes marked as * are redirected to /command-center
 export default function App() {
-  // TODO: Implement the function body.
+  // Your code here
   return (
     <BrowserRouter>
-      <nav>
-        <Link to="/">Home</Link>
-      </nav>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/explore" element={<Explore />} />
-      </Routes>
+      <ErrorBoundary FallbackComponent={ErrorFallback}>
+        <Routes>
+          <Route path="/command-center" element={<CommandCenter />} />
+          <Route path="/success" element={<SuccessPage />} />
+          <Route path="/error" element={<ErrorPage />} />
+          <Route path="*" element={<Navigate to="/command-center" />} />
+        </Routes>
+      </ErrorBoundary>
     </BrowserRouter>
   )
 }
