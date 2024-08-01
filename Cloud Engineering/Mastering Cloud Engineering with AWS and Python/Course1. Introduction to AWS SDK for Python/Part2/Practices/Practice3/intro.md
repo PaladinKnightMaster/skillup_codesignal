@@ -1,0 +1,5 @@
+# Add Custom Endpoint to Boto3 S3 Client
+
+Fantastic progress! Now, let's focus on a crucial aspect of working with AWS in development environments: connecting to a simulated AWS service. Your task is to configure a Boto3 client for S3 with a custom configuration, specifically setting the `endpoint_url` to `http://localhost:4566`. This setup is common when working with local cloud simulators that mimic AWS services, allowing you to develop and test without impacting real AWS resources.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
