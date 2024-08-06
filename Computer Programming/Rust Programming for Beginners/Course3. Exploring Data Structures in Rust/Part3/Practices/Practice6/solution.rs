@@ -1,48 +1,37 @@
 // fn main() {
-//     let hero_names = [String::from("Iron Man"), String::from("Thor")];
-//     let mut hero_powers = [2999,4500];
+//     let mut hero_names = vec![String::from("Iron Man"), String::from("Thor")];
 
-//     // TODO: Call list_names on hero_names WITHOUT transfering ownership
-//     list_names(___);
+//     let mut power_levels = vec![2999, 4500];
 
-//     // TODO: Call move_teams in order to change all power levels to 0 and transfer ownership of of hero_names array
-//     move_teams(____, ____);
-//     println!("Hero powers are now: {:?}", hero_powers);
+//     // TODO: Call add_hero without transferring owernship of either vectors
+
+//     // TODO: Print updated hero_names
+
+//     // TODO: Print updated power_levels
 // }
 
-// // TODO: Implement list_names which prints out the names of the heros without transferring ownership
-// fn list_names(____) {
-//     println!("Hero names are: {:?}", ____);
-// }
+// // TODO: Implement add_hero that adds a new name to hero_names and a new power level to power_levels
+// // Hint: This function should take in mutable references
+// fn add_hero(names: ______, levels: ______) {
 
-// // TODO: Implement move_teams which prints out the hero names while transfering ownership. The powers should all be set to 0 without transferring ownership.
-// fn move_teams(____, ____) {
-//     println!("Moving {:?} to another team", ____);
-//     // TODO: Set power levels to 0
 // }
 
 fn main() {
-    let hero_names = [String::from("Iron Man"), String::from("Thor")];
-    let mut hero_powers = [2999, 4500];
+    let mut hero_names = vec![String::from("Iron Man"), String::from("Thor")];
 
-    // Call list_names on hero_names WITHOUT transferring ownership
-    list_names(&hero_names);
+    let mut power_levels = vec![2999, 4500];
 
-    // Call move_teams in order to change all power levels to 0 and transfer ownership of hero_names array
-    move_teams(hero_names, &mut hero_powers);
-    println!("Hero powers are now: {:?}", hero_powers);
+    // TODO: Call add_hero without transferring owernship of either vectors
+    add_hero(&mut hero_names, &mut power_levels);
+    // TODO: Print updated hero_names
+    println!("{:?}", hero_names);
+    // TODO: Print updated power_levels
+    println!("{:?}", power_levels);
 }
 
-// Implement list_names which prints out the names of the heroes without transferring ownership
-fn list_names(names: &[String; 2]) {
-    println!("Hero names are: {:?}", names);
-}
-
-// Implement move_teams which prints out the hero names while transferring ownership. The powers should all be set to 0 without transferring ownership.
-fn move_teams(names: [String; 2], powers: &mut [i32; 2]) {
-    println!("Moving {:?} to another team", names);
-    // Set power levels to 0
-    for power in powers.iter_mut() {
-        *power = 0;
-    }
+// TODO: Implement add_hero that adds a new name to hero_names and a new power level to power_levels
+// Hint: This function should take in mutable references
+fn add_hero(names: &mut Vec<String> , levels: &mut Vec<i32>) {
+    names.push(String::from("Hulk"));
+    levels.push(9000);
 }
