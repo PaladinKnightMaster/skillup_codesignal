@@ -1,0 +1,5 @@
+# Running AWS S3 Operations with Boto3 Exception Handling
+
+In this task, your primary objective is to observe a Python script in action that attempts to list all objects of a non-existent S3 bucket, which inevitably triggers an exception. This exercise will expose you to how AWS service exceptions during operations are handled effectively in real-world scenarios. Your role is to run the script and understand the error handling process - no code modifications are needed for this task.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, bear in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to your clipboard.

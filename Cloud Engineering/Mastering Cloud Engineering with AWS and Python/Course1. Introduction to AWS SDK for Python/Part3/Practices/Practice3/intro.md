@@ -1,0 +1,5 @@
+# Handling Internal Boto3 Exceptions
+
+Impressive work! Let's raise the bar again. You're provided with a Python script that tries to list objects in a S3 bucket. The script adeptly handles the `ClientError` exception originating from service's response. This time, your task is to further enhance this script by incorporating handling for the `BotoCoreError`, a type of exception that symbolizes errors within Boto3 itself. In case of a `BotoCoreError`, print this message: `'Unexpected Boto3 error: {error_message}'`.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
