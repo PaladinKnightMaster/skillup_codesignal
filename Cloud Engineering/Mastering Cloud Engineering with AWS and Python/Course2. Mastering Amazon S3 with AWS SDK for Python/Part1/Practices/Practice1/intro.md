@@ -1,0 +1,5 @@
+# Creating AWS Session and Initializing Amazon S3
+
+In this task, you will familiarize yourself with creating AWS sessions and working with Amazon S3. Using the Python SDK, Boto3, you'll explore how easy it is to set up an AWS session with specific credentials and a region. Once this session is established, it can be used to initialize S3 `resource` and `client`. Your task here is to closely review these interactions without making any code modifications. Once you feel comfortable with the structure of the script, run it to observe the process and understand how Amazon S3 and Boto3 play together.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. If you need to revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to your clipboard.
