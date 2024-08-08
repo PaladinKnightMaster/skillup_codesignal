@@ -1,0 +1,5 @@
+# Add Galactic Data Archive Bucket Creation and Deletion in S3
+
+Embark on a mission to tidy up our cosmic storage! In this task, you're provided with code that creates three S3 buckets destined for different sectors of our interstellar operations. However, to streamline our data storage, we need to decommission one of the buckets. Your task is to identify and delete the `interstellar-operations-archive` bucket. This will help us optimize our galactic data management strategy and ensure efficient use of resources.
+
+**Important Note**: Running scripts can alter the filesystem's state or modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
