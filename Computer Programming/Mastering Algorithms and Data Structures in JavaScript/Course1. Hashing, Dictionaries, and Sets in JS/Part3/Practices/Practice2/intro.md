@@ -1,0 +1,3 @@
+# Cosmic Anagram Distance Calculator
+
+Alright, Space Explorer, let's add another feather to your coding cap! Picture two spacecraft log files, each a whole array of words. Your mission? Find the words from the second log file that have an anagram in the first log file. Then, add up the length of these matching anagram words. You must return this total length as a number. Now, remember, anagrams are words that have the same letters but rearranged. If a word has no anagram in the other array, abandon it. Don't worry, whether these arrays have one word or a thousand, your code should be ready! Now, get set to crunch some cosmic anagram numbers!
