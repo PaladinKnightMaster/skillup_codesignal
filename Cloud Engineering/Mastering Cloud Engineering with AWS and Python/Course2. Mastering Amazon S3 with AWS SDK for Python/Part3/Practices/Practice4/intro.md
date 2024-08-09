@@ -1,0 +1,5 @@
+# Exploring CodeSignal Learn Course Logos in S3 with Boto3
+
+Explore AWS S3 and Boto3 by engaging with a practical task that involves managing course logos for CodeSignal Learn. Your objective is to complete a script that not only populates the `'codesignal-learn-course-logos'` bucket with specific course logos but also lists all objects within it after the upload. The provided script already includes steps for creating the bucket and uploading logos. Your key task is to add the final piece: the logic to list all the objects in the bucket, demonstrating your ability to navigate and manage cloud resources effectively.
+
+**Important Note**: Running scripts can alter the filesystem's state or modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
