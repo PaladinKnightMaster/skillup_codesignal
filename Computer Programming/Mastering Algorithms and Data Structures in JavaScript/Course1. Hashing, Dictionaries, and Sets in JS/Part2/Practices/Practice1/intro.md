@@ -1,0 +1,3 @@
+# Identifying Overlapping Visitors between Two Blogs
+
+Alright, Space Voyager! Picture this: You're tracking visitors to two different blogs on your fantastic galactic website. Each user is identified with a unique id and you've got logs of all their visits. Your mission, should you choose to accept it, is to find out if there's any overlap in visitors to each blog. In simple terms, we want to know if anyone has visited both blogs. You can decode these logs – they're simply lists of user IDs, with each ID mirrored by a unique integer. Your code should return true if there is any overlap, and false otherwise.
