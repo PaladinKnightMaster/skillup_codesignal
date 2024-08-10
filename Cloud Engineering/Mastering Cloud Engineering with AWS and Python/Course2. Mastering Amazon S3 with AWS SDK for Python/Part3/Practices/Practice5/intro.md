@@ -1,0 +1,5 @@
+# Clearing S3 Buckets: A Clean Sweep with Boto3
+
+Embark on a journey to master AWS S3 bucket management using Boto3. Your mission, should you choose to accept it, involves a clean sweep of the `codesignal-learn-course-logos` bucket, which is brimming with logos from various CodeSignal Learn courses. Your task is to augment the provided script by deleting all objects within the bucket before removing the bucket itself, demonstrating your prowess in cloud resource stewardship.
+
+**Important Note**: Running scripts can alter the filesystem's state or modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.

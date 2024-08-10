@@ -1,0 +1,5 @@
+# Implementing Full-Cycle S3 Bucket Management
+
+Embark on the ultimate Boto3 and AWS S3 challenge, encapsulating the entire lifecycle of S3 bucket management. From creation to clean-up, this task will test your proficiency in handling cloud storage with precision. You'll start by creating a new bucket, then populate it with a series of images that represent various courses from CodeSignal Learn. After verifying the uploaded contents, you'll remove all objects and finally delete the bucket itself, showcasing a full spectrum of S3 management skills. Prepare to execute each step and observe the transformative journey of your S3 bucket from inception to conclusion.
+
+**Important Note**: Running scripts can alter the filesystem's state or modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.

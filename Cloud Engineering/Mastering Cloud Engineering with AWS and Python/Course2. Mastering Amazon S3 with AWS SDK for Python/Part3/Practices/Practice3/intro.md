@@ -1,0 +1,5 @@
+# Digital Gallery Download: Retrieving Images from AWS S3
+
+Hone your AWS S3 capabilities by finalizing a script that interacts with the cloud. A bucket named `'codesignal-digital-gallery'` awaits, intended to house `'prompt-engineering-course-logo.jpg'`. Your task is to complete the provided script by adding the line necessary for downloading this image into the `"usercode/FILESYSTEM/Downloads"` directory. This step is key to mastering the retrieval and management of cloud-based assets.
+
+**Important Note**: Running scripts can alter the filesystem's state or modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.

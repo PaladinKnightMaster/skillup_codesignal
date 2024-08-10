@@ -1,0 +1,5 @@
+# Uploading files to AWS S3 with Boto3
+
+Dive into AWS S3 with Boto3 by adding a new picture to a digital gallery. Your job is to finish up a script that sets up a bucket named `codesignal-digital-gallery` and then uploads a specific image file into it. To get started, add the missing code to upload the image. After running the script with the `Run` button, you'll see the bucket being created, the image getting uploaded, and a before-and-after list showing what's in the bucket. This proves your image is now part of the gallery.
+
+**Important Note**: Running scripts can alter the filesystem's state or modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
