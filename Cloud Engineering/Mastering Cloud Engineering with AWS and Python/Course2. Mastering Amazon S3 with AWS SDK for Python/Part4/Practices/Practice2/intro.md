@@ -1,0 +1,5 @@
+# Multipart Upload Mastery - Segmenting the Cosmos
+
+Embark on a mission to enhance your cloud storage skills by completing a multipart upload to Amazon S3. Your challenge is to upload a 43 MB dataset in three parts to the `cosmo-archive-2023` bucket. The dataset is segmented into chunks of 15 MB, 15 MB, and 13 MB. Although the code for uploading the first chunk is provided, it has not been executed yet. Your objective is to finalize the script by seamlessly uploading all three chunks, showcasing your adeptness in managing significant datasets in S3 with efficiency and accuracy. This task is your opportunity to demonstrate proficiency in ensuring data integrity and accessibility in the cloud.
+
+**Important Note**: Running scripts can alter the filesystem's state or modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.

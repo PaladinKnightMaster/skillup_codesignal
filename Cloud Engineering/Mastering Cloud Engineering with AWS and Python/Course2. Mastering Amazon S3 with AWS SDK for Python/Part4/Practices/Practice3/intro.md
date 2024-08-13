@@ -1,0 +1,3 @@
+# Multipart Upload of a Large Dataset to Amazon S3
+
+Prepare to further advance your cloud storage skills with a new challenge: uploading a dataset in smaller increments to Amazon S3. Your mission involves dividing a 43 MB dataset into 5 MB chunks and uploading each to the `cosmo-archive-2023` bucket. Utilizing a loop for this multipart upload process, you will demonstrate your ability to efficiently manage large datasets in S3. This task is an excellent opportunity to showcase your adeptness in optimizing data transfers and ensuring the dataset's accessibility in the cloud.
