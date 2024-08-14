@@ -1,0 +1,3 @@
+# Deciphering Galactic Word Frequencies
+
+Alright, Stellar Navigator, let's shoot for the stars with this vibrant task. Imagine you're receiving cosmic signals, but the alien words are separated by a comma, not the usual spaces we're accustomed to. They've sent you a string and your objective is to jot down how many times each word appears in the message. Let's say it's something like "hello,stellar,navigator,stellar,stellar". The outcome? A count showing "hello: 1, stellar: 3, navigator: 1". Get your code rocket ready to decipher these galactic words! Let's see what you've got.
