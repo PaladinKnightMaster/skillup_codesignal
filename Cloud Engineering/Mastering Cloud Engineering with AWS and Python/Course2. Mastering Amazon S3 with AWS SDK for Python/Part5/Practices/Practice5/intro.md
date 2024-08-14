@@ -1,0 +1,5 @@
+# Exciting Journey with Versioning in S3
+
+Dive into the final task of managing space exploration data using Amazon S3! Your mission is to craft a script that activates bucket versioning and sequentially uploads a series of cosmic image files. You are provided with three unique images intended for upload in a specific order. Each image will replace the previous one under the same object key, `"course-logo.jpg"`, showcasing how versioning in S3 maintains each version of an object, even as it's updated or replaced. After uploading all images, retrieve and print all versions of the `"course-logo.jpg"` to demonstrate the history of changes made to this object.
+
+**Important Note**: Running scripts can alter the filesystem's state or modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
