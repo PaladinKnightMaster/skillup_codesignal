@@ -1,0 +1,5 @@
+# Version Control with AWS S3 in Python
+
+Explore **versioning** in cloud storage without writing a single line of code. In this task, you'll observe how versions of a document are uploaded to an **S3 bucket**, with each `version ID` captured. Understand how **AWS S3** versioning maintains every document update. Simply click the `Run` button to upload document versions and see how to retrieve the latest and a specific earlier version by its `version ID`. Witness version control in action with just a click!
+
+**Important Note**: Running scripts can alter the filesystem's state or modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
