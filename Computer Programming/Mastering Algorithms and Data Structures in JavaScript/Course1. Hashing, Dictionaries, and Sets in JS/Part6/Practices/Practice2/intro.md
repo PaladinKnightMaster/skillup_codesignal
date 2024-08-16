@@ -1,0 +1,3 @@
+# Interstellar Word Frequency Catalog with HashMaps
+
+Listen up, Galactic Pioneer! We have quite a mission ahead. Imagine you're a wordsmith astronaut needing to catalog words in alien languages. We'd create a tool - a `Map`! It maps unique words in any sentence to their frequency of appearance. Just like you'd document "blorp" shows up 3 times to know it's a common word. Here's a friendly rubric: Create a function taking a sentence as input (a string of English words separated by spaces, could be empty) and returning a `Map`. Each key is a unique word (case insensitive), and its value is the count of how often it appeared. Impressive, eh?
