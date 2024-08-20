@@ -1,0 +1,5 @@
+# Integrating Default DynamoDB Session with Boto3
+
+Advancing through our journey with **Boto3**! In this task, your job is to extend the functionality of the provided Python script. The script already initializes an AWS session using explicit access credentials and a region and creates a DynamoDB resource and client based on that session. Now, you must create a default **DynamoDB** resource and client using the default **Boto3** session. Utilize your knowledge of setting up default sessions to assist in creating these new resources and clients.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.

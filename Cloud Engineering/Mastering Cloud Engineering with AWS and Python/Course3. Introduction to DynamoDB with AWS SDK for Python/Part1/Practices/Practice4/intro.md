@@ -1,0 +1,5 @@
+# Working with DynamoDB Sessions in Boto3
+
+Fantastic job so far! Now, we're advancing to a more complex task in our course. Consider a scenario where you are working in AWS with Python's `boto3`, and you need to manage multiple environments. For this, you are required to write a Python script that creates an AWS Session using specific credentials and then creates both a `resource` and a `client` instance for DynamoDB using that session. Additionally, you need to create `resource` and `client` instances with the default AWS Session.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. Keep in mind, however, that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
