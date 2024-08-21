@@ -1,0 +1,5 @@
+# Switching DynamoDB Billing Modes
+
+In this task, you will challenge your understanding of how to modify the table creation settings in DynamoDB utilizing `Boto3`. The provided Python script creates a DynamoDB table named `Inventory`, with `ItemId` as the primary key. However, the table provisioning is currently set to the `On-Demand` billing mode. Your assignment is to adjust this setting to `Provisioned Throughput` and set both the read and write capacity units to `10`. After making the necessary adjustments, execute the updated script and verify the changes in the table creation settings.
+
+**Important Note**: Running scripts can modify resources in our AWS simulator. To revert to the initial state, you may use the reset button located in the top right corner. However, be mindful that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.

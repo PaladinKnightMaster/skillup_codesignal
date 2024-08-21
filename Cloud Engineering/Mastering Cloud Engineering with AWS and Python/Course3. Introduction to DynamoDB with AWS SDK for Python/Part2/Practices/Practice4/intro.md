@@ -1,0 +1,5 @@
+# Expanding DynamoDB Table Structure
+
+Great progress on your DynamoDB journey! In this task, you are provided with a Python script that initiates a DynamoDB table named `Products` with `ProductId` as the primary key. Your task is to modify the script to include a range key called `Manufacturer` for each product. Additionally, add a waiter to ensure the table is fully created before the script continues, and then list all tables to verify the new structure. The waiter should poll every 2 seconds and make a maximum of 10 attempts.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
