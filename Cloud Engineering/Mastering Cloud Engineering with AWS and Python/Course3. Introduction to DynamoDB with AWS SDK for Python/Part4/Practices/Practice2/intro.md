@@ -1,0 +1,5 @@
+# Ensuring Strong Consistency in DynamoDB Read Operations
+
+Great job making it this way! Now you'll modify an existing Python script that creates a DynamoDB table named `Movies`, inserts items into it, and retrieves those items. The task is to adjust the read consistency of the `get_item` and `batch_get_item` methods to use strong consistency. This ensures that the most recent data is always returned from the table. After making these changes, execute the script and observe the implications of using strong consistency for data retrieval.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, use the reset button located in the top right corner. Remember, resetting will erase any code changes you've made. To preserve your code during a reset, consider copying it to the clipboard.

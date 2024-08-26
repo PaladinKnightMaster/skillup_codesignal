@@ -1,0 +1,5 @@
+# Retrieving Multiple Items in DynamoDB
+
+Good job! This task will test your **understanding of DynamoDB data retrieval operations**. You have a script that builds a table named `Movies` and populates it with a few records. Each record represents a movie, containing attributes such as `year` and `title`. Your objective is to extend the functionality of this script by adding data retrieval operations to fetch movies from the table. Specifically, you must add the `batch_get_item` operation to retrieve two movies simultaneously: 'The Big New Movie' from 2016 and 'The Bigger, Newer Movie' from 2017.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
