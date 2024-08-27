@@ -1,0 +1,5 @@
+# Mastering Single Item Retrieval
+
+Great progress! In this task, you'll enhance a Python script that already creates a DynamoDB table named `Movies` and populates it with several movie records. Your objective is to refine this script by implementing read operations that retrieve specific movie details using their primary keys. You will modify the script to retrieve details for two movies: 'The Big New Movie' from 2016, and 'The Bigger, Newer Movie' from 2017. For the second movie, ensure you only retrieve the title by using a projection. After modifying the script, run it to observe how DynamoDB fetches and displays these records.
+
+**Important Note**: Running scripts can modify resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. Keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.

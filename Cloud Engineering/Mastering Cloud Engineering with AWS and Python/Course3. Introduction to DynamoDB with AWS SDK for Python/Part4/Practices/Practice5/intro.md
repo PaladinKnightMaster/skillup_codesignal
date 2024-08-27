@@ -1,0 +1,5 @@
+# Mastering DynamoDB Operations in Python
+
+Great job so far! In this task, you will continue to build upon your foundational knowledge of DynamoDB by writing Python scripts that not only demonstrate your ability to interact with DynamoDB tables but also to manipulate and retrieve data efficiently. You will begin with a template that already includes scripts for creating a DynamoDB table named `Movies` and populating it with several records. Your focus will be on expanding this script to include data retrieval operations using `GetItem` and `BatchGetItem`. Specifically, you will demonstrate different retrieval strategies including simple reads, reads with projection, and ensuring strongly consistent reads.
+
+**Important Note**: Keep in mind that running scripts can modify the resources in our AWS simulator. If you need to revert your AWS environment to its initial state, use the reset button located in the top right corner of the simulator interface. However, resetting the environment will remove any code changes you've made during your session. To avoid losing your work, remember to save your code externally before hitting the reset button.
