@@ -1,0 +1,5 @@
+# Manipulating DynamoDB with Boto3 in Python
+
+Great progress on your DynamoDB journey! In this exercise, you will demonstrate your skills in both updating and deleting entries within a DynamoDB table using the Python `boto3` library. Your task involves enhancing a provided script that initializes a table named `UserPosts`. You will need to update attributes of existing entries and perform deletions both individually and in batch mode, showcasing your ability to handle multiple types of database modifications efficiently.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.

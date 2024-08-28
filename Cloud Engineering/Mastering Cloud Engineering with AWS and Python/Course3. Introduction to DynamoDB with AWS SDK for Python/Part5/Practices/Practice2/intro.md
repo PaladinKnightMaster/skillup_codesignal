@@ -1,0 +1,5 @@
+# Multi-Attribute Update with DynamoDB
+
+Fantastic progress! This task requires you to demonstrate an understanding of how to update DynamoDB table items. In this exercise, you will adjust an existing Python script aimed at creating a DynamoDB table named `UserPosts`, inserting a few initial items into the table, and performing an update action on the inserted items. Your specific task involves modifying the existing `update_item` function to change not just the `status` but also the `content` attribute of a particular post, represented by an item in the table.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
