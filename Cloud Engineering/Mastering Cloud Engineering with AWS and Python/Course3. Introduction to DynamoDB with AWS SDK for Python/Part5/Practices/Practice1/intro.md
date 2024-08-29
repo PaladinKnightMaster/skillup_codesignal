@@ -1,0 +1,5 @@
+# Running Full DynamoDB Operations Sequence
+
+Great job making it this far! This task will reaffirm your understanding of creating a **DynamoDB table**, inserting items, and performing operations to update and delete items. You will execute a pre-existing Python script that carries out a series of actions to manage a table named `UserPosts` and its items. The script includes a process for table creation, populating the table with some initial entries, updating items, and finally, deleting items from the table. Understanding each action being executed is extremely important. Go through the script, run it, and observe the results.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
