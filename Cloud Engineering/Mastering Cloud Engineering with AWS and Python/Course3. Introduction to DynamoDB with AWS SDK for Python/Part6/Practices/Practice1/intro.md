@@ -1,0 +1,5 @@
+# Exploring Query and Scan Operations in DynamoDB
+
+This task is designed to familiarize you with executing DynamoDB `Query` and `Scan` operations using a provided Python script. You will run the script that interacts with a pre-configured `Movies` table, which includes operations to retrieve data using various Query and Scan configurations. Observe how data is retrieved under different scenarios, including using simple conditions, projections, and filter expressions. This exercise will help enhance your understanding of data retrieval dynamics in DynamoDB.
+
+**Important Note**: Running scripts can modify resources in our AWS simulator. To revert to the initial state, use the reset button located in the top right corner. Resetting will erase any code changes, so copy your code to the clipboard to preserve it during a reset.
