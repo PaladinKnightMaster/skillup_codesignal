@@ -78,7 +78,10 @@ table.put_item(Item={'year': 2018, 'title': 'Another New Movie', 'genre': 'Actio
 
 # TODO: Write a simple Scan operation to find all movies.
 result = table.scan()
+print("Result for all movies:", result['Items'])
 # TODO: Write a Scan operation to find all 'Action' movies.
 result = table.scan(FilterExpression=Attr('genre').eq('Action'))
+print("Result for all 'Action' movies:", result['Items'])
 # TODO: Write a Scan operation to find all movies released after 2016.
 result = table.scan(FilterExpression=Attr('year').gt(2016))
+print("Result for all movies released after 2016:", result['Items'])
