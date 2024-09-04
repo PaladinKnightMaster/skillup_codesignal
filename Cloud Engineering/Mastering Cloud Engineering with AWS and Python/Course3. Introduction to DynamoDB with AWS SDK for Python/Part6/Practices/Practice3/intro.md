@@ -1,0 +1,5 @@
+# Filtering DynamoDB Scan Results
+
+In this exercise, you'll deepen your understanding of DynamoDB's `Scan` operation, which reads every item in a table or those that meet specific criteria. This operation can be particularly useful when you need to examine a broad dataset without prior knowledge of the keys. Your task is to modify an existing Python script that creates a DynamoDB table named `Movies` and populates it with records. Each movie record includes a `genre` attribute. You are to adjust the `Scan` operation in the script to filter for movies in the `Action` genre that were filmed **after 2017**. This will demonstrate how to refine `Scan` operations to retrieve specific data efficiently.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.

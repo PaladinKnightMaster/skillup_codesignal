@@ -1,0 +1,5 @@
+# Scanning DynamoDB with Filtered Expressions
+
+Great job progressing in your DynamoDB learning journey! In this task, you'll enhance your understanding of the `Scan` operation, which allows for comprehensive data retrieval across a DynamoDB table. The table, named `Movies`, already contains multiple movie records, each with attributes like year, title, and genre. Your challenge is to implement several `Scan` operations ranging from simple to complex to filter movies based on different criteria. This exercise aims to showcase the versatility and broad applicability of the `Scan` operation compared to the `Query` operation.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
