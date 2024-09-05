@@ -1,0 +1,3 @@
+# Quick Sort Toy Car Array Challenge
+
+In the world of toy cars, sorting them by size can be a daunting task due to their number and variety. The given code is the functional essence of a **Quick Sort** algorithm, which you learned in the previous lesson. How does this algorithm swiftly sort an array of toy car sizes? How would you arrange a large collection of toy cars based on their size using an algorithm? Click `Run` to see how it brings order to playful chaos!
