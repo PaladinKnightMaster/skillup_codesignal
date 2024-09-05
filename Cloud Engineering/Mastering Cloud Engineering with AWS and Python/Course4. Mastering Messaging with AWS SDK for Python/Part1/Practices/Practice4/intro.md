@@ -1,0 +1,5 @@
+# Mastering AWS Sessions, SQS, and SNS
+
+Congratulations on reaching this stage! So far, you've learned to create clients and resources for AWS SQS and SNS using `Boto3`. Now, it's time to bring everything together! Your task is to write a Python script from scratch. This script should create resources and clients for SQS and SNS. In the first part, these will be default resources and clients. In the second part, you need to set up an AWS session with specified region and credentials, and create an SQS resource and an SNS client based on this session. While setting up credentials, use `'test'` for both `aws_access_key_id` and `aws_secret_access_key`, and `'us-west-2'` for `region_name`.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.

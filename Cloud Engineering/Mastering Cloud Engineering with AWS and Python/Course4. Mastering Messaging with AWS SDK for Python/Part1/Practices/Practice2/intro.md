@@ -1,0 +1,5 @@
+# Changing AWS Region in a Session
+
+Terrific! You've learned how to create resources and clients for AWS Simple Queue Service (SQS) and Simple Notification Service (SNS). For this task, you are required to modify an executing Python script. The script creates a specific AWS session with a custom access key, secret key, and region. However, the region is set to `us-west-1`. Your task is to change the provisioned region from `us-west-1` to `us-east-1`. Run the modified script and observe how altering the session's region properties influences AWS resource and client creation.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
