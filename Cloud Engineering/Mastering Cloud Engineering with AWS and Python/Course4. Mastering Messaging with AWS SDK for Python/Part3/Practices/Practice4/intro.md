@@ -1,0 +1,5 @@
+# Adding Multiple Messages to SQS FIFO Queue
+
+Good work on your progress! In this task, you'll interact with an AWS SQS FIFO (First-In-First-Out) queue. A FIFO queue named 'student_queue.fifo' is created initially. You're tasked to send two messages to this queue, with each message having the same MessageGroupId of 'CodeSignal2021'. The content of these messages doesn't matter. This task aims to help you learn how to properly send messages to an SQS FIFO queue using Python (boto3).
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
