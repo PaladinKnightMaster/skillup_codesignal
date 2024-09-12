@@ -1,15 +1,24 @@
 // fn main() {
-//     let mut count = 10;
-//     while count >= 1 {
-//         println!("T-minus: {}", count);
-//         count -= 1;
+//     let mut temperature = 0;
+//     while temperature <= 20 {
+//         if ______ { // TODO: Add condition
+//             println!("Temperature {} degrees is even.", temperature);
+//         } else {
+//             println!("Temperature {} degrees is odd.", temperature);
+//         }
+//         // TODO: Increment the temperature
 //     }
-//     println!("Lift off!");
 // }
 
 fn main() {
-    for count in (1..11).rev() {
-        println!("T-minus: {}", count);
+    let mut temperature = 0;
+    while temperature <= 20 {
+        if temperature % 2 == 0 { // TODO: Add condition
+            println!("Temperature {} degrees is even.", temperature);
+        } else {
+            println!("Temperature {} degrees is odd.", temperature);
+        }
+        // TODO: Increment the temperature
+        temperature += 1;
     }
-    println!("Lift off!");
 }
