@@ -1,0 +1,5 @@
+# Setting Display Name for AWS SNS Topics
+
+Building further upon Amazon Web Services (AWS) Simple Notification Services (SNS), you will now have the task of extending a provided Python script. The initial part of the script creates an AWS SNS topic named `'MyTopic'`. Your duty is to extend this script by adding additional functionality that sets the `DisplayName` attribute for the created SNS topic using the assigned `TopicArn`. As you've learned in the lessons, the `DisplayName` appears as the "From" field in notifications sent via email. Upon successful execution, the script should print out the `TopicArn` and the successful setting of the `DisplayName` attribute.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
