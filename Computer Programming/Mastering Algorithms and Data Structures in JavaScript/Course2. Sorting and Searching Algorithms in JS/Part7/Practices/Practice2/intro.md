@@ -1,0 +1,5 @@
+# Counting Topsy-Turvy Pairs in an Array
+
+Alright, Galactic Pioneer, buckle up for this cosmic challenge! Consider a list of unique integers, like a string of stars - each one unique, no duplicates. Now, imagine a universe where the position of a star is more crucial than its size. We're going to dive into array indices, found at every `i` and `j` where `i` is less than `j`. Should you find a star at position `i` that is bigger than the star at `j`, we term it a "topsy-turvy" pair. Like finding unusual patterns in the Milky Way!
+
+You're tasked to find the total count of such "topsy-turvy" pairs in the array. You'll be provided with an array of these distinct stars. Unleash your code-rocket and start exploring. Your input will be an array with at least 1 integer. The output should be a single number - the total count of "topsy-turvy" pairs. Adventure on!

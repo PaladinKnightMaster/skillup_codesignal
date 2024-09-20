@@ -1,0 +1,3 @@
+# Galactic Auction: Finding the K-th Highest Bid using Quick Sort Algorithm
+
+Well, Stellar Navigator, here's a fun scenario: we're in a galactic auction where an infinite number of exotic items are being sold. The prices are mentioned in an unsorted array of integers. While all this is fascinating, we're only interested in the `k`-th highest priced item. Tricky, isn't it? Your mission, should you choose to accept, involves taking an unsorted array and an integer `k`, and identifying the `k`-th largest number (using the Quick Sort algorithm). For instance, if 'k = 1', fetch the highest price, 'k = 2', the second highest price, and so on. Remember, Fast makes Waste, so hurry, but don't rush!
