@@ -1,0 +1,5 @@
+# Initializing AWS Services Clients
+
+Time to validate your knowledge! Write a Python script to initialize default clients for **AWS Secrets Manager**, **Parameter Store (SSM)**, and **Key Management System (KMS)**. Then, create a custom `boto3` session and initialize custom clients for these three AWS services using the session. Ensure you are creating the session with `'test'` as both `aws_access_key_id` and `aws_secret_access_key`, and `'us-west-2'` as the `region_name`. In this task, you will showcase your understanding of creating both default and custom clients for managing secrets on AWS.
+
+**Important Note**: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
