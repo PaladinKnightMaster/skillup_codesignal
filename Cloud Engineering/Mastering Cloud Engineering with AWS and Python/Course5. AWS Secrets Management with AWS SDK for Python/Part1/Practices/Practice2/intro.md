@@ -1,0 +1,5 @@
+# Creating AWS Clients with Custom Session
+
+In this task, you will authenticate with AWS using custom credentials. The task presents you with a Python script that already creates a custom session. Your task is to complete the script by creating custom clients for `AWS Secrets Manager`, `SSM`, and `KMS` using the already established custom session. This will help you understand how to create custom clients using a custom session, which is important for needing custom configurations, such as when interacting with resources in a different AWS region.
+
+Important Note: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top-right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.

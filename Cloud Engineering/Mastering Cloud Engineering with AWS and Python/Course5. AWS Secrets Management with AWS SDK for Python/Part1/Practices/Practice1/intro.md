@@ -1,0 +1,5 @@
+# Initializing AWS Secret Management Services
+
+Welcome to the first exercise of this course! As explained in the lesson, AWS offers multiple services for managing secrets, such as **AWS Secrets Manager**, **AWS Systems Manager Parameter Store (SSM)**, and **AWS Key Management Service (KMS)**. These services can be utilized via the `Boto3` SDK. They must first be initialized as clients before you can start using them. Your task is to run a Python script that initializes these clients both in their default manner and through a custom session. Simply run the code, verify that it initializes the services by observing the print statements, and ensure that you are getting no errors.
+
+Important Note: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
