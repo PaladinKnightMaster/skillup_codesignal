@@ -1,0 +1,5 @@
+# Working with AWS Secrets Manager
+
+Cosmo, our friendly CodeSignal mascot, decided to securely store some sensitive information using AWS Secrets Manager. To this end, we have a pre-existing Python script that creates a secret, retrieves it, rotates it by updating its password, retrieves the updated secret, and finally, fetches the version of the current secret. Your task is to run the script, observe its execution, and understand how the specific lines of the code interact with AWS Secrets Manager. Take note, you're not required to write any code—simply run the script and monitor its output.
+
+Important Note: Executing scripts can modify resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. It is important to note, however, that resetting does eliminate any code modifications. To safeguard your code during a reset, consider copying it to the clipboard.
