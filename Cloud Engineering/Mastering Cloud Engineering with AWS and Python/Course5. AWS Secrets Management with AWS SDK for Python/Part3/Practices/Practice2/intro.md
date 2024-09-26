@@ -1,0 +1,5 @@
+# Enhancing Password Complexity for AWS Secrets
+
+In this task, you will be working with the AWS Secrets Manager to create a new secret with a random password. Initially, you are provided with a Python script that generates a very simple string which is used as a password for a new Secret. However, this implementation isn't very secure. Your task is to adjust the existing code to ensure that the generated password is more complex, specifically it should be 16 characters long, including both lower and upper case characters, and without the specific characters `@`, `#`, `"`, and `/`. Also, note that we do not want to include any punctuation characters in the generated password.
+
+Important Note: Executing scripts can change the state of resources within our AWS simulator. In order to revert to the initial state, you can use the rest button located in the top right corner. However, keep in mind that resetting will erase any code modifications. Therefore, to maintain your code during a reset, consider copying it to the clipboard.

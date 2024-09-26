@@ -1,0 +1,5 @@
+# All Advanced Secrets Manager Operations
+
+Welcome to this task! You will be running a pre-existing Python script that exercises various operations with AWS Secrets Manager. This script demonstrates creating versions of a secret, updating the secret with both manually specified and randomly generated passwords, listing the secret versions, retrieving a secret's value by different version stages, managing secret tags, and restoring a deleted secret. The purpose of this task is to expose you to how these operations work within a real script. There's no need for you to write any code—your task is simply to run the script, observe its execution and understand what each part of the code is doing.
+
+Important Note: Executing scripts can alter resources within our AWS simulator. To return to the initial state, you may use the reset button located in the top right corner. It is important to note, however, that resetting will remove any code modifications. To safeguard your code during a reset, consider copying it to the clipboard.
