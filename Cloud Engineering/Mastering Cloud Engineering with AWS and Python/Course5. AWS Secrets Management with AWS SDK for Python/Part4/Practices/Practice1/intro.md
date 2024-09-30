@@ -1,0 +1,5 @@
+# Running AWS SSM Parameter Store Operations
+
+Ready for the first practice task? Perfect! Your task is to run a Python script that interacts with the AWS Systems Manager (SSM) Parameter Store. The script creates several parameters, updates one parameter, reads the updated parameter, and adds a tag to another. The script concludes by creating a parameter hierarchy, reading the parameters under this hierarchy, and then deleting all the parameters. Please take a look at the script and execute it to become familiar with the fundamental functionalities of the AWS SSM Parameter Store.
+
+Important Note: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.

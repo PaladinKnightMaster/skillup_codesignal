@@ -1,0 +1,5 @@
+# Modifying and Verifying SSM Parameter Values
+
+Let's test your **AWS SSM Parameter Store** skills! You have a Python script, which creates a string parameter `/app_config/api_url` and initially assigns it a value. However, this URL has recently changed, and you are tasked with updating the script to reflect this change. Your specific task is to update the URL to `https://api.newapp.com` without removing the original code that sets the initial value. After updating the parameter, validate your changes by retrieving and printing the updated value.
+
+Important Note: Running scripts can modify the resources in our **AWS** simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
