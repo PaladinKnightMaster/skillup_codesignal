@@ -1,0 +1,5 @@
+# Deleting Single and Multiple Parameters in AWS
+
+Fantastic progress so far! In this task, a Python script is provided that creates several parameters using the AWS SSM Parameter Store. Your task is to extend this script by adding a few lines of code that will remove these parameters. Specifically, you are required to delete the `/app_config/api_url` parameter individually and the parameters under the `/app_config/database/` hierarchy in a batch. This task will give you a broader understanding of managing parameters using the AWS SSM Parameter Store.
+
+Important Note: Running scripts can modify the resources in our AWS simulator. To revert to the initial state, you can use the reset button located in the top right corner. However, keep in mind that resetting will erase any code changes. To preserve your code during a reset, consider copying it to the clipboard.
