@@ -29,11 +29,11 @@ The **SkillUp CodeSignal** repository is designed to help developers practice an
 
 ## Courses
 
-I've embarked on several learning paths to enhance my skills. Detailed information about these courses can be found in the [`COURSES.md`](COURSES.md) file.
+I've embarked on several learning paths to enhance my skills.
 
 ### Completed Courses
 
-- [Front-End Engineering with React]("Front-End Engineering/Front-End Engineering with React/Readme.md")
+- [Front-End Engineering with React](`Front-End Engineering/Front-End Engineering with React/Readme.md`)
 - [Rust Programming for Beginners]("Computer Programming/Rust Programming for Beginners/Readme.md")
 - [Intro to Machine Learning in Trading with $TSLA]("Machine Learning/Intro to Machine Learning in Trading with $TSLA/Readme.md")
 - [Mastering Cloud Engineering with AWS and Python]("Cloud Engineering/Mastering Cloud Engineering with AWS and Python/Readme.md")
