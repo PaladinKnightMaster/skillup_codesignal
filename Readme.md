@@ -33,18 +33,18 @@ I've embarked on several learning paths to enhance my skills.
 
 ### Completed Courses
 
-- [Front-End Engineering with React](`Front-End Engineering/Front-End Engineering with React/Readme.md`)
-- [Rust Programming for Beginners]("Computer Programming/Rust Programming for Beginners/Readme.md")
-- [Intro to Machine Learning in Trading with $TSLA]("Machine Learning/Intro to Machine Learning in Trading with $TSLA/Readme.md")
-- [Mastering Cloud Engineering with AWS and Python]("Cloud Engineering/Mastering Cloud Engineering with AWS and Python/Readme.md")
+- [Front-End Engineering with React](Front-End%20Engineering/Front-End%20Engineering%20with%20React/Readme.md)
+- [Rust Programming for Beginners](Computer%20Programming/Rust%20Programming%20for%20Beginners/Readme.md)
+- [Intro to Machine Learning in Trading with \$TSLA](Machine%20Learning/Intro%20to%20Machine%20Learning%20in%20Trading%20with%20%24TSLA/Readme.md)
+- [Mastering Cloud Engineering with AWS and Python](Cloud%20Engineering/Mastering%20Cloud%20Engineering%20with%20AWS%20and%20Python/Readme.md)
 
 ### In-Progress Courses
 
-- [Learning and Mastering Redis with Node.js]("Back-end Engineering/Learning and Mastering Redis with Node.js/Readme.md")
-- [Mastering Algorithms and Data Structures in JavaScript]("Computer Programming/Mastering Algorithms and Data Structures in JavaScript/Readme.md")
-- [AI Theory and Coding]("Machine Learning/AI Theory and Coding/Readme.md")
-- [Comprehensive Introduction to PyTorch]("Machine Learning/Comprehensive Introduction to PyTorch/Readme.md")
-- [Prompt Engineering for Everyone]("Prompt Engineering/Prompt Engineering for Everyone/Readme.md")
+- [Learning and Mastering Redis with Node.js](Back-end%20Engineering/Learning%20and%20Mastering%20Redis%20with%20Node.js/Readme.md)
+- [Mastering Algorithms and Data Structures in JavaScript](Computer%20Programming/Mastering%20Algorithms%20and%20Data%20Structures%20in%20JavaScript/Readme.md)
+- [AI Theory and Coding](Machine%20Learning/AI%20Theory%20and%20Coding/Readme.md)
+- [Comprehensive Introduction to PyTorch](Machine%20Learning/Comprehensive%20Introduction%20to%20PyTorch/Readme.md)
+- [Prompt Engineering for Everyone](Prompt%20Engineering/Prompt%20Engineering%20for%20Everyone/Readme.md)
 
 ## Challenges
 
