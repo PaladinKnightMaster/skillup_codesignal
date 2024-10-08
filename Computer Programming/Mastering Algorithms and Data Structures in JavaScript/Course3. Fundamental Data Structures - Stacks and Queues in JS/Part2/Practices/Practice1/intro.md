@@ -1,0 +1,3 @@
+# Deciphering Alien Language: Bracket Matching Function Task
+
+Alright, Stellar Navigator! You've got a map full of strange symbols - parentheses `()`, square brackets `[]`, braces `{}`. Let's think of these as signals from an alien language. Your mission, should you choose to accept it, is to create a function to decipher if these signals match properly! For instance, '()' is a match, but '{]' ain't. Keep in mind, these signals will be encoded in a single string. Your function will just get this one string as the input and should return a simple 'true' if they all match correctly and 'false' if they don't! Let's decode these mysterious space signals together!
