@@ -1,0 +1,3 @@
+# Extending Sequential Model with Additional Layer
+
+Now that you're comfortable constructing sequential neural networks with multiple layers and activation functions, it's time to cement that knowledge with a follow-up task. **Add** to the provided model an extra hidden layer with 7 inputs and 10 outputs, followed by a **ReLU** activation function. Place it between the existing ones and do not forget to modify the next layer to work with the new one.
