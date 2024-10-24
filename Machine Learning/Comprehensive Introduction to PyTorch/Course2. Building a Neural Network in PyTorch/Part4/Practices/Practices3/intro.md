@@ -1,0 +1,3 @@
+# Fixing PyTorch Model Prediction
+
+Excellent work so far! Now it's time to practice fixing an error in the prediction phase of a PyTorch model. The provided code works, but the way the model is used for predictions is not ideal. This improper usage could lead to significant issues in larger projects. Your task is to identify and fix the error to ensure the model has the correct implementation for making predictions.
