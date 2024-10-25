@@ -1,0 +1,3 @@
+# Complete the Remove Function in the LinkedList Class
+
+Great job so far, Space Explorer! Now let's test your understanding of removing elements from a linked list. Your task is to complete the `remove` function in the `LinkedList` class to successfully remove a node containing specific data from the list. The skeleton of the function has been provided; now, you'll need to fill in the logic for finding and removing the node.
