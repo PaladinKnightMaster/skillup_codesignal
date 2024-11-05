@@ -41,9 +41,9 @@ await client.zAdd('product_catalog', { score: 400, value: 'Tablet' });
 await client.zAdd('product_catalog', { score: 600, value: 'Monitor' });
 
 // TODO: Retrieve the most expensive product based on the prices
-const mostExpensiveProduct = await client.zRange('product_catalog', -1, -1);
+const mostExpensiveProduct = await client.zRangeWithScores('product_catalog', -1, -1);
 
 // TODO: Print the most expensive product and its price
-console.log(`Most expensive product: ${mostExpensiveProduct}`);
+console.log(`Most expensive product: ${mostExpensiveProduct[0].value}, Price: ${mostExpensiveProduct[0].score}`);
 
 await client.disconnect();
