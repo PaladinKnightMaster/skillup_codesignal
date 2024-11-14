@@ -1,0 +1,3 @@
+# Visualizing Spam Message Distribution
+
+Having progressed through our visual data exploration journey, you are now equipped to tackle a comprehensive task. This final practice invites you to apply your knowledge by writing code from the ground up. Here, you will employ `seaborn` alongside `matplotlib` to visualize the class distribution between 'spam' and 'ham' messages. This exercise encapsulates the essence of visualizing text data for NLP, reinforcing the skills you've developed.
