@@ -1,0 +1,3 @@
+# Counting Label to Data Visualization
+
+In this task, you will finalize a data visualization plotting operation on the **SMS Spam Collection** dataset by properly implementing a key function with Seaborn. Your main objective is to correctly identify and utilize the Seaborn function that plots the count of 'spam' versus 'ham' messages. By accomplishing this, you will effectively demonstrate your ability to leverage Seaborn for data exploration.

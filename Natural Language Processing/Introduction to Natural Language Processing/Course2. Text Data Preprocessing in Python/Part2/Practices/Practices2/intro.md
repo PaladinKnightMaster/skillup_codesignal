@@ -1,0 +1,3 @@
+# Removing Commas from Text
+
+Building on your newfound ability to streamline SMS messages by removing punctuation, let's push your skills a little further. In this practice, modify the code to only remove commas by replacing `string.punctuation` with `','`, all while still utilizing Python's string manipulation functions. This adjustment not only tests your adaptability but also broadens your preprocessing toolkit for NLP tasks.

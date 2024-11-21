@@ -1,0 +1,3 @@
+# Debugging Punctuation Removal Exercise
+
+This practice requires you to identify and correct an error in a code snippet aimed at cleaning SMS messages by removing punctuation. The initial steps and essential techniques have already been covered. Now, focus on applying these techniques to ensure our data is ready for further analysis. Spotting and fixing errors is key to mastering text preprocessing and enhancing the reliability of NLP models.

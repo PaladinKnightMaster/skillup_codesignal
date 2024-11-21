@@ -1,0 +1,3 @@
+# Visualizing Class Distribution Correctly
+
+Building on your introduction to visual data exploration with seaborn and matplotlib, this task involves troubleshooting a common error encountered when visualizing data. Despite successfully writing the code to create a `countplot`, you may find that the plot does not display as expected. Identifying and resolving such issues are crucial for effective data analysis. This task will test your ability to ensure visualizations are properly executed in Python, reinforcing the importance of attention to detail in data exploration.

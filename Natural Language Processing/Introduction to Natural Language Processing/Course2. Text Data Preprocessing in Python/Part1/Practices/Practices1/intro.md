@@ -1,0 +1,3 @@
+# Introduction to Lowercase Text Conversion
+
+Dive into the world of NLP preprocessing by transforming text in the SMS Spam Collection dataset to lowercase, a crucial step for data uniformity crucial in NLP tasks. This hands-on experience with Python and `pandas` will showcase how simple preprocessing significantly prepares text for analysis. `Run` the provided script as is to see the transformation in action.

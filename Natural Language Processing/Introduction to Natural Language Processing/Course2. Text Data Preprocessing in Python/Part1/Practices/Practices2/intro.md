@@ -1,0 +1,3 @@
+# Lowercasing Spam Dataset Messages
+
+After becoming familiar with the basics of converting text to lowercase in our last lesson, it's time to put that knowledge to the test. You have seen how converting all messages in a dataset to lowercase achieves uniformity, making it easier for algorithms to process text data. However, there appears to be a slight hiccup with the code provided below. The code is supposed to convert each message to lowercase, but instead, it does the opposite. Can you identify and fix the error so that messages are properly converted to lowercase?
