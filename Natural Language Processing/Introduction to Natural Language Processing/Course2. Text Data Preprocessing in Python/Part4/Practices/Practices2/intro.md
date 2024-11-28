@@ -1,0 +1,3 @@
+# Adapting Stop Words Removal for Spanish
+
+With the knowledge gained from understanding stop words in English, let's pivot and explore their impact in Spanish. This step involves modifying the given Python code to filter out stop words from a generated dataset containing both English and Spanish text. This task will test your understanding of applying text processing routines across different languages by altering the `language` parameter in the stop words function.
