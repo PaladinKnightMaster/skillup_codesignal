@@ -1,0 +1,3 @@
+# Debugging Data Preprocessing Steps
+
+After mastering the initial steps of preprocessing text data, you're now faced with a practical challenge. The provided code aims to streamline the text for NLP (Natural Language Processing) tasks, which encompass lowercasing, tokenization, stop word removal, and stemming, using the **SMS Spam Collection dataset**. However, an error prevents it from executing as intended. Your task is to identify and rectify this mistake, ensuring each message is processed correctly into its stemmed form. This exercise will deepen your understanding of common pitfalls and solidify your preprocessing skills.
