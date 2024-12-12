@@ -1,0 +1,3 @@
+# Unveiling Secrets in Enchanted Narratives
+
+Modify the starter code to include the constraints section for extending the story. Keep the setting (the enchanted forest), main characters (the young mage and the ancient tree spirit), and mood (wonder and curiosity) unchanged. Extend the narrative by about 100-150 words, revealing a hidden secret about the ancient tree spirit and introducing an enchanted artifact while retaining the original narrative tone and style.
