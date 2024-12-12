@@ -1,0 +1,3 @@
+# Implementing Complete TF-IDF Vectorization Pipeline
+
+Star Voyager, your final mission in this lesson is to harness your coding skills to implement a TF-IDF vectorization pipeline! Using the SMS Spam Collection dataset, you will embark on a journey to first load this dataset, then without any constraints on document frequency, initialize a `TfidfVectorizer`. Your objective is to transform the `'message'` column into TF-IDF vectors. Conclude your mission by showcasing the shape of your transformed universe. Good voyage!
