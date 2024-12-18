@@ -1,0 +1,3 @@
+# Fixing Nested Resolvers in GraphQL
+
+In this task, you will debug and fix a basic GraphQL server setup that handles nested types. The provided script is intended to initialize an `Apollo Server` with a simple schema and nested resolvers but contains some issues preventing it from running correctly. Your task is to identify and fix these issues so that the server starts up successfully and returns the correct nested data structure for books and authors.
