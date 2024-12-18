@@ -1,0 +1,3 @@
+# Add Age to GraphQL Schema
+
+In this task, you will work on extending the capability of the provided script. You have a setup for querying books and authors with their respective relationships. Your task is to modify the schema to include an `age` field for each author, update the corresponding data, and ensure the resolvers utilize the `age` field appropriately, searching not just by author's id, but also by their age. Verify by running the server and querying for authors and their books. This task will help you understand how to alter GraphQL schemas and corresponding resolvers.
