@@ -1,0 +1,3 @@
+# Unveiling Other Significant Words
+
+Building on your newfound understanding from analyzing the `TF-IDF` scores, this task invites you to broaden your perspective by looking at more features. Adjust the current code to identify the top 20 `TF-IDF` features, rather than just 10. This exercise aims to give you a more rounded view of word importance across the dataset. By examining a larger set of highly important words, you'll deepen your understanding of `TF-IDF` vectorization and appreciate the nuanced significance of these words within the context of text analysis.
