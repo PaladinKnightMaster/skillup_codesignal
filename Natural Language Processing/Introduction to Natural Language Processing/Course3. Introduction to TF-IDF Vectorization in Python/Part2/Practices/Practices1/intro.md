@@ -1,0 +1,3 @@
+# Identifying High-Impact Words with TF-IDF Vectorization
+
+In this exercise, you'll leverage `TF-IDF` vectorization to identify the top 10 words with the highest `TF-IDF` scores within the **SMS Spam Collection** dataset. This practice is crucial for distinguishing significant words that contribute to the context of documents, particularly useful in spam detection. Just execute the provided code as is to see these key terms come to life.
