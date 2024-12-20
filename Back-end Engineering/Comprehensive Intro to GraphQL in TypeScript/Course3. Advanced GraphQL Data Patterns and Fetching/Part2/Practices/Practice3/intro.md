@@ -1,0 +1,3 @@
+# GraphQL Pagination Challenge
+
+Welcome back! In this exercise, you'll extend a basic GraphQL server by adding pagination logic to the `books` query. The provided script defines the GraphQL schema and sets up sample data, but the resolver for the `books` query, as well as server querying logic, is incomplete. Your goal is to implement pagination logic within the resolver and server querying. Let's go
