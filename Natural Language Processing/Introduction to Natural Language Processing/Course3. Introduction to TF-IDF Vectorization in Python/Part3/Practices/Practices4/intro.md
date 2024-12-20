@@ -1,0 +1,3 @@
+# Customizing TF-IDF Vectorization Parameters
+
+Building on your newly acquired knowledge of parameter customization in TF-IDF vectorization, let's dive deeper into tweaking these settings. Your challenge is to adjust the `TfidfVectorizer` parameters to refine the feature extraction process more effectively. Specifically, you will set up the `ngram_range` to consider both unigrams and bigrams, while also limiting the feature set to the 1000 most frequent terms. This task is designed to enhance your understanding of how adjusting `ngram_range` and `max_features` impacts the resulting feature matrix.
