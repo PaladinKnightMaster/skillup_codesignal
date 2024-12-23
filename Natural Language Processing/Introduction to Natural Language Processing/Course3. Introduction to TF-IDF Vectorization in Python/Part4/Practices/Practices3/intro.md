@@ -1,0 +1,3 @@
+# Customizing Stop Words for TF-IDF Vectorization
+
+Stellar Navigator, your initial journey into the realm of TF-IDF Vectorization utilized a predefined list of English stopwords. However, the cosmos of text data often requires a more tailored approach. Now, let's enhance your code by transitioning from the default `'english'` stopword list to a custom list that excludes specific terms like `'a'`, `'an'`, `'the'`, `'and'`. Apply these changes to your code to see the impact of using a more personalized stopword list on your analysis.

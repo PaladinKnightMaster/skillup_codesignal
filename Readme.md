@@ -39,14 +39,15 @@ I've embarked on several learning paths to enhance my skills.
 - [Mastering Cloud Engineering with AWS and Python](Cloud%20Engineering/Mastering%20Cloud%20Engineering%20with%20AWS%20and%20Python/Readme.md)
 - [Mastering Algorithms and Data Structures in JavaScript](Computer%20Programming/Mastering%20Algorithms%20and%20Data%20Structures%20in%20JavaScript/Readme.md)
 - [Comprehensive Introduction to PyTorch](Machine%20Learning/Comprehensive%20Introduction%20to%20PyTorch/Readme.md)
+- [Learning and Mastering Redis with Node.js](Back-end%20Engineering/Learning%20and%20Mastering%20Redis%20with%20Node.js/Readme.md)
 
 ### In-Progress Courses
 
-- [Learning and Mastering Redis with Node.js](Back-end%20Engineering/Learning%20and%20Mastering%20Redis%20with%20Node.js/Readme.md)
 - [AI Theory and Coding](Machine%20Learning/AI%20Theory%20and%20Coding/Readme.md)
 - [Prompt Engineering for Everyone](Prompt%20Engineering/Prompt%20Engineering%20for%20Everyone/Readme.md)
 - [Introduction to Natural Language Processing](Natural%20Language%20Processing/Introduction%20to%20Natural%20Language%20Processing/Readme.md)
 - [Comprehensive Intro to GraphQL in TypeScript](Back-end%20Engineering/Comprehensive%20Intro%20to%20GraphQL%20in%20TypeScript/Readme.md)
+- [Introduction to Programming with Ruby](Back-end%20Engineering/Introduction%20to%20Programming%20with%20Ruby/Readme.md)
 
 ## Challenges
 
@@ -60,6 +61,8 @@ The challenges are organized into different categories based on their difficulty
 - Dynamic Programming
 - Sorting and Searching
 - Miscellaneous
+- Machine Learning
+- Cloud Engineering
 
 ## Solutions
 
@@ -69,12 +72,14 @@ Solutions to the challenges are provided in multiple programming languages, incl
 ![Python](https://img.shields.io/badge/Code-Python-%233776AB?logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Code-Rust-%23000000?logo=rust&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-%23339933?logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-%233178C6?logo=typescript&logoColor=white)
 
 Each solution is thoroughly explained with comments and a step-by-step approach to solving the problem, making it easier to understand the thought process behind each solution.
 
 ## Technologies Used
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-%23F7DF1E?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.x-%233178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-%233776AB?logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-1.x-%23000000?logo=rust&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-14.x-%23339933?logo=nodedotjs&logoColor=white)
@@ -91,6 +96,7 @@ The repository utilizes various technologies and tools to enhance the coding exp
   - Python (3.x)
   - Rust
   - Node.js
+  - TypeScript
 - **Frameworks and Libraries:**
   - React.js
   - PyTorch
