@@ -1,0 +1,3 @@
+# Expanding Alpha Range in Grid Search
+
+Following our journey through Grid Search's ability to optimize model parameters, let's explore further how slight adjustments can lead to different outcomes. Your current objective involves refining the parameter range of `alpha` for the Naive Bayes classifier. By introducing new values, 0.05 and 2.0, into the grid, you'll understand the impact of these alterations on the classifier's effectiveness. This will also allow you a glimpse into how precise or broad adjustments can sway the model's predictive accuracy. Let's proceed to enhance the model based on your newfound insights from earlier lessons.

@@ -1,0 +1,3 @@
+# Optimizing Naive Bayes with Grid Search
+
+Dive into optimizing the Naive Bayes classifier for text classification by using Grid Search to find the best `alpha` parameter. You'll work with the SMS Spam Collection dataset, applying TF-IDF vectorization before running the Grid Search. Simply execute the provided code to see which `alpha` value enhances our model's accuracy—no modifications required, just press `Run` to observe the results.
