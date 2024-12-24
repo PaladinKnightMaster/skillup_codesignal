@@ -1,0 +1,3 @@
+# Artist Portfolio Showcase Prompt
+
+Write a prompt to generate three innovative ideas for showcasing artists' portfolios on a social media platform, emphasizing features suitable for a mobile app environment. The platform supports image and video uploads and caters mainly to visual artists, making portfolios a vital component of their online presence. Ideas should be presented in bullet points and designed to enhance viewer navigation and interaction.
