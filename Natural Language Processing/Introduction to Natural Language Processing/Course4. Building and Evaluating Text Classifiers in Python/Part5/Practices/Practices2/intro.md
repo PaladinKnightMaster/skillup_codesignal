@@ -1,0 +1,3 @@
+# Filling in the Confusion Matrix
+
+Dive deeper into model evaluation by completing an exercise to generate a confusion matrix using `Scikit-learn`. This practical task aims to enhance your understanding of assessing a machine learning model’s performance. By accurately implementing the appropriate module from `Scikit-learn`, you will gain valuable hands-on experience in applying theoretical concepts to real-world scenarios using Python.
