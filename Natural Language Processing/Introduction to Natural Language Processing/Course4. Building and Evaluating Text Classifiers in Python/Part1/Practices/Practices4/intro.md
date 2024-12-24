@@ -1,0 +1,3 @@
+# Crafting a Naive Bayes Classifier
+
+Having practiced with various aspects of the **Naive Bayes Classifier** for text classification, it's time to bring everything together. In this exercise, you will implement the classification process step by step. This exercise will challenge you to apply everything you've learned about training the Naive Bayes model, making predictions, and assessing model performance.
