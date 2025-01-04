@@ -1,0 +1,3 @@
+# Running Cross-Validation on Text Data
+
+In this task, you'll solidify your understanding of cross-validation through a practical text classification example with the Naive Bayes classifier. We'll use TF-IDF vectorization on the SMS Spam Collection dataset, and observe the model's performance across different data subsets. `Run` the provided code without modifications to analyze cross-validation scores and the model's consistency.

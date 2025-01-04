@@ -1,0 +1,3 @@
+# Mastering Text Classification with Naive Bayes
+
+Building on our journey through cross-validation, it's time to apply your understanding in a comprehensive task. Your goal is to complete the Python script to use a Naive Bayes classifier, conduct a 5-fold cross-validation, and finally display the scores and compute the average cross-validation score. This exercise offers a hands-on opportunity to integrate the concepts you've learned into a real-world dataset.

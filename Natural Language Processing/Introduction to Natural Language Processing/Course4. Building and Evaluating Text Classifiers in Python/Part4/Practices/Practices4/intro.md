@@ -1,0 +1,3 @@
+# Tuning Naive Bayes with Grid Search
+
+In this task, you're stepping into an essential phase of machine learning model fine-tuning. Your focus will be on completing a piece of code tasked with defining the parameter grid for a Naive Bayes classifier. Specifically, the missing piece involves the `alpha` hyperparameter, which is pivotal in adjusting the model's sensitivity to features. It's a chance to apply what you've learned about Grid Search directly and see its impact on the performance of text classification on the SMS Spam Collection dataset.
