@@ -56,8 +56,6 @@ X_train, X_test, y_train, y_test = load_preprocessed_data()
 model = nn.Sequential(
     nn.Linear(13, 15),
     nn.ReLU(),
-    nn.Linear(15, 15),
-    nn.ReLU(),
     nn.Linear(15, 3)
 )
 
