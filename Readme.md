@@ -40,12 +40,12 @@ I've embarked on several learning paths to enhance my skills.
 - [Mastering Algorithms and Data Structures in JavaScript](Computer%20Programming/Mastering%20Algorithms%20and%20Data%20Structures%20in%20JavaScript/Readme.md)
 - [Comprehensive Introduction to PyTorch](Machine%20Learning/Comprehensive%20Introduction%20to%20PyTorch/Readme.md)
 - [Learning and Mastering Redis with Node.js](Back-end%20Engineering/Learning%20and%20Mastering%20Redis%20with%20Node.js/Readme.md)
+- [Prompt Engineering for Everyone](Prompt%20Engineering/Prompt%20Engineering%20for%20Everyone/Readme.md)
+- [Introduction to Natural Language Processing](Natural%20Language%20Processing/Introduction%20to%20Natural%20Language%20Processing/Readme.md)
 
 ### In-Progress Courses
 
 - [AI Theory and Coding](Machine%20Learning/AI%20Theory%20and%20Coding/Readme.md)
-- [Prompt Engineering for Everyone](Prompt%20Engineering/Prompt%20Engineering%20for%20Everyone/Readme.md)
-- [Introduction to Natural Language Processing](Natural%20Language%20Processing/Introduction%20to%20Natural%20Language%20Processing/Readme.md)
 - [Comprehensive Intro to GraphQL in TypeScript](Back-end%20Engineering/Comprehensive%20Intro%20to%20GraphQL%20in%20TypeScript/Readme.md)
 - [Introduction to Programming with Ruby](Back-end%20Engineering/Introduction%20to%20Programming%20with%20Ruby/Readme.md)
 
