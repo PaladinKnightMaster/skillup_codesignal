@@ -1,0 +1,3 @@
+# Change Rate Limiting Configuration
+
+In this task, you'll enhance an existing GraphQL server setup by changing the configured rate limiting to protect against too many requests in a short period. The current script initializes an `Apollo Server` with a simple schema and resolvers in addition to a rate limit set to `10 requests per minute`. Your task is to modify the rate limiting configuration in `server.ts` to allow a maximum of `3 requests per 15 seconds`. Additionally, you'll use the `run.ts` script to make multiple requests, demonstrating how the new rate limiting works: some requests will pass, while others will fail due to the rate limit.

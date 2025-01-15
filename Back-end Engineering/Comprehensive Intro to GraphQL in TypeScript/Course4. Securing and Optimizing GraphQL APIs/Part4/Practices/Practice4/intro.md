@@ -1,0 +1,3 @@
+# Handling Errors in GraphQL Server
+
+In this task, you will practice writing a complete GraphQL server from scratch. The server will handle queries for fetching user details by `ID` and mutations for adding new users to the system. You will implement advanced validation that can throw multiple errors (some custom, some built-in) to enforce rules like unique email addresses and proper email formatting.

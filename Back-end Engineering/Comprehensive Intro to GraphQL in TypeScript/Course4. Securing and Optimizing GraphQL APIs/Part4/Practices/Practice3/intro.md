@@ -1,0 +1,3 @@
+# GraphQL Error Handling Essentials
+
+In this task, you will practice extending a GraphQL server to enhance its error-handling capabilities. Specifically, you will introduce a custom `BookError` for user-friendly error messages when a book is not found and a `UserInputError` when required inputs are missing while adding a new book. You will also ensure that the server returns proper validation errors for these cases.

@@ -1,0 +1,3 @@
+# Handling Errors in GraphQL Server
+
+In this task, you will extend an existing GraphQL server setup by adding functionality to handle queries more effectively. Specifically, you will add code to handle errors when fetching users by ID, ensuring that a user-friendly error message is returned if a user is not found. Additionally, you'll enhance the mutation to validate user inputs when adding new users to ensure that both the `name` and `email` fields are provided.

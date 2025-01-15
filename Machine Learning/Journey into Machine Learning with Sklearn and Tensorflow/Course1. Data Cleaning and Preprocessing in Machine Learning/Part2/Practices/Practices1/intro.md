@@ -1,0 +1,3 @@
+# Handle Missing Data in the Titanic Dataset
+
+In the given code, we have already cleaned our Titanic dataset by addressing its missing values. The `deck` column has been removed due to an excessive number of missing data points, and missing values in `age`, `embarked`, and `embark_town` have been imputed with median and mode values, respectively. Run the code to check if all missing values have been handled and to see the improved state of our dataset, now ready for further analysis!

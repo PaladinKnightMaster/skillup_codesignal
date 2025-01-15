@@ -1,0 +1,3 @@
+# Rate Limit Your GraphQL Server
+
+You've come a long way in learning about securing GraphQL APIs! In this task, you will build a GraphQL server with `Apollo Server` and configure two different rate-limiting rules for two different endpoints. Specifically, you'll limit the main GraphQL endpoint, `/graphql`, to `3 requests per 15 seconds` and a separate RESTful endpoint, `/status`, to `2 requests per 30 seconds`. You will also verify that the rate-limiting works correctly using the `run.ts` script.
