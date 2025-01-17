@@ -42,13 +42,14 @@ I've embarked on several learning paths to enhance my skills.
 - [Learning and Mastering Redis with Node.js](Back-end%20Engineering/Learning%20and%20Mastering%20Redis%20with%20Node.js/Readme.md)
 - [Prompt Engineering for Everyone](Prompt%20Engineering/Prompt%20Engineering%20for%20Everyone/Readme.md)
 - [Introduction to Natural Language Processing](Natural%20Language%20Processing/Introduction%20to%20Natural%20Language%20Processing/Readme.md)
+- [Comprehensive Intro to GraphQL in TypeScript](Back-end%20Engineering/Comprehensive%20Intro%20to%20GraphQL%20in%20TypeScript/Readme.md)
 
 ### In-Progress Courses
 
 - [AI Theory and Coding](Machine%20Learning/AI%20Theory%20and%20Coding/Readme.md)
-- [Comprehensive Intro to GraphQL in TypeScript](Back-end%20Engineering/Comprehensive%20Intro%20to%20GraphQL%20in%20TypeScript/Readme.md)
 - [Introduction to Programming with Ruby](Back-end%20Engineering/Introduction%20to%20Programming%20with%20Ruby/Readme.md)
-
+- [Journey into Machine Learning with Sklearn and Tensorflow](Machine%20Learning/Journey%20into%20Machine%20Learning%20with%20Sklearn%20and%20Tensorflow/Readme.md)
+- [Mastering Docker - Containers, Networking, and Orchestration](Site%20Reliability%20Engineering/Mastering%20Docker%20-%20Containers%2C%20Networking%2C%20and%20Orchestration/Readme.md)
 ## Challenges
 
 The challenges are organized into different categories based on their difficulty and the concepts they cover. Some of the categories include:
