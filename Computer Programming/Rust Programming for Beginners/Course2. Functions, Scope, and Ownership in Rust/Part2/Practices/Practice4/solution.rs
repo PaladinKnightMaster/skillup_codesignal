@@ -13,8 +13,9 @@ fn main() {
     let version = 1;
     println!("Current version: {}", version);
     // TODO: Use variable shadowing to update "version" by calling your function and print the updated version.
+    let version = update_version(version);
 
-    println!("Updated version: {}", update_version(version));
+    println!("Updated version: {}", version);
 }
 
 fn update_version(version: i32) -> i32 {

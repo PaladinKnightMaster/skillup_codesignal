@@ -15,7 +15,7 @@ fn main() {
     println!("{}", book_title);
 }
 
-fn get_book_title() -> &String {
+fn get_book_title() -> String {
     let book = String::from("Rust Book");
     book
 }
