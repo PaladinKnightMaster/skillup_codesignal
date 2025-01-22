@@ -1,0 +1,3 @@
+# Applying MinMaxScaler and One-Hot Encoding To Features
+
+Galactic Pioneer, you've reached the frontier of data transformation! Now, forge the complete code to transform a dataset using both numerical scaling and categorical encoding. Remember to use `MinMaxScaler` on `age` with a range of 0 to 10, and use it again with default range on `income`. Then, like you did last time, employ the powerful pandas `get_dummies` method for encoding `sex` and `embarked`. Merge the results into one unified DataFrame, and behold the transformed data!
