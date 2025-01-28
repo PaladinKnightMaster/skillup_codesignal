@@ -23,7 +23,7 @@ fn main() {
         title: String::from("The Rust Awakens"),
         director: String::from("Jane Doe"),
         duration: 150
-    }
+    };
     // TODO: Access and print each field of the instance
     println!("Title: {}", movie.title);
     println!("Director: {}", movie.director);
