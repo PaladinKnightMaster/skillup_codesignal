@@ -1,45 +1,47 @@
-# movie_list = ["The Godfather", "Titanic", "Inception", "Avatar", "The Dark Knight"]
+# TODO: Initialize budget and spent variables to 1200 and 0 respectively
 
-# max_movies = 3
+# TODO: Set the cost of each activity to 250
 
-# processed_movies = 0
+# TODO: Write a while loop to add the activity cost to spent until budget is reached
+# Hint: spent + amount should be less than or equal to budget to be able to spend
 
-# # TODO: Iterate through the movie list with the each method
-#     # TODO: Check if the number of processed movies has reached the maximum
-#         # TODO: If the maximum number of movies has been processed, print a message "Processed maximum movies. Exiting loop." and exit the loop
+# TODO: Print the amount spent in each iteration and final remaining budget
 
-#     # TODO: Increment the number of processed movies
+# Reset spent variable to 0 for the next loop
 
-#     # TODO: Skip the genre check for the movie "Avatar" printing message "Found Avatar. Watching these in 3D: skipping Genre check."
+# TODO: Write an until loop to add the activity cost to spent until it exceeds the budget
+# Hint: spent + amount should be greater than budget to stop spending
 
-#     # TODO: Print a message for genre checking the movie
-
+# TODO: Print the amount spent in each iteration and final remaining budget
 
 
-movie_list = ["The Godfather", "Titanic", "Inception", "Avatar", "The Dark Knight"]
 
-max_movies = 3
+# TODO: Initialize budget and spent variables to 1200 and 0 respectively
+budget = 1200
+spent = 0
 
-processed_movies = 0
+# TODO: Set the cost of each activity to 250
+amount = 250
 
-# TODO: Iterate through the movie list with the each method
-movie_list.each do |movie|
-    # TODO: Check if the number of processed movies has reached the maximum
-    if processed_movies == max_movies
-        # TODO: If the maximum number of movies has been processed, print a message "Processed maximum movies. Exiting loop." and exit the loop
-        puts "Processed maximum movies. Exiting loop."
-        break
-    end
+# TODO: Write a while loop to add the activity cost to spent until budget is reached
+# Hint: spent + amount should be less than or equal to budget to be able to spend
+while spent + amount <= budget
+    spent += amount
 
-    # TODO: Increment the number of processed movies
-    processed_movies += 1
+# TODO: Print the amount spent in each iteration and final remaining budget
+    puts "Spent #{spent} so far"
+    puts "Budget is now #{budget - spent}"
+end
 
-    # TODO: Skip the genre check for the movie "Avatar" printing message "Found Avatar. Watching these in 3D: skipping Genre check."
-    if movie == "Avatar"
-        puts "Found Avatar. Watching these in 3D: skipping Genre check."
-        next
-    end
+# Reset spent variable to 0 for the next loop
+spent = 0
 
-    # TODO: Print a message for genre checking the movie
-    puts "Checking Genre: #{movie}"
+# TODO: Write an until loop to add the activity cost to spent until it exceeds the budget
+# Hint: spent + amount should be greater than budget to stop spending
+until spent + amount > budget
+    spent += amount
+    puts "Spent #{spent} so far"
+
+# TODO: Print the amount spent in each iteration and final remaining budget
+    puts "Budget is now #{budget - spent}"
 end
